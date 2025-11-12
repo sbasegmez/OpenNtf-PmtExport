@@ -6,7 +6,7 @@
 
 The **OpenNTF Project Database Metadata Export** is a Java-based utility leveraging the Domino JNX API to extract metadata from the OpenNTF project database. It includes a metadata database template and enables exporting the extracted data into both NSF and JSON formats for further use.
 
-This utility is used for creating the [OpenNTF Projects Dataset](https://www.openntf.org/main.nsf/project.xsp?r=project/OpenNTF Projects Dataset). It is provided as an example of Domino JNX library.
+This utility is used for creating the [OpenNTF Projects Dataset](https://www.openntf.org/main.nsf/project.xsp?r=project/OpenNTF+Projects+Dataset). It is provided as an example of Domino JNX library.
 
 
 
